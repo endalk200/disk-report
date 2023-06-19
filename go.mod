@@ -1,4 +1,4 @@
-module github.com/endalk200/disk-report
+module github.com/endalk200/diskreport
 
 go 1.20
 
